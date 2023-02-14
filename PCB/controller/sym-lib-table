@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "_rp2040")(type "KiCad")(uri "${KIPRJMOD}/RP2040/RP2040.kicad_sym")(options "")(descr ""))
+  (lib (name "_usb_type_c")(type "KiCad")(uri "${KIPRJMOD}/SS-52400-003/SS-52400-003.kicad_sym")(options "")(descr ""))
+)
